@@ -63,9 +63,9 @@ To run this project, you'll need to have the following installed:
    MONGO_DB_URL = <MONGO_DB_URL> 
    TOKEN_KEY =<TOKEN_KEY>
    ```
-   E.g. MONGO_DB_URL = mongodb://localhost:27017/accountdb
-   Here, accountdb is the database name.
-   TOKEN_KEY=DFDF%#$%554GFVGVFXV
+   E.g. MONGO_DB_URL = mongodb://localhost:27017/accountdb  
+   Here, accountdb is the database name.  
+   TOKEN_KEY=DFDF%#$%554GFVGVFXV  
    Here, TOKEN_KEY can be set to any string that you want.
 
 4. Start the server :
