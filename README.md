@@ -15,6 +15,7 @@
 - Apis for register (register new user), login (login for existing user) and welcome (requires jwt token).
 - Production standard structuring of the application.
 - High SoC (feature based).
+- Postman collection.
 
 
 ### Built With
