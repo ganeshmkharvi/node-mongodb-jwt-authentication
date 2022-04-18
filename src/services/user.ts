@@ -38,7 +38,7 @@ export async function registerServie(req, res) {
         // Create token
         const token = jwt.sign(
             { user_Id: user._id, email },
-            config.tokeyKey,
+            config.tokenKey,
             {
                 expiresIn: "2h",
             }
