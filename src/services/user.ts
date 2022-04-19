@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 import * as constants from "../utility/constants";
 import config from '../config/config';
 
-export async function registerServie(req, res) {
+export async function registerService(req, res) {
 
     // Our register logic starts here
     try {

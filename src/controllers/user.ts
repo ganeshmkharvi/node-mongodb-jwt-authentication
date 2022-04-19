@@ -1,7 +1,7 @@
-import { registerServie, loginService, welcomeService } from "../services/user";
+import { registerService, loginService, welcomeService } from "../services/user";
 
 export async function register (req, res) {
-    return await registerServie(req,res);
+    return await registerService(req,res);
   }
 
   export async function login  (req, res){
