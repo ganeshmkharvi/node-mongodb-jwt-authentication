@@ -64,7 +64,7 @@
 			"response": []
 		},
 		{
-			"name": "wlcome",
+			"name": "welcome",
 			"request": {
 				"method": "POST",
 				"header": [
